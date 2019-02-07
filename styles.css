@@ -1,0 +1,280 @@
+body {
+    background-color:black;
+}
+.main {
+    display:flex;
+    justify-content:center;
+    color: white;
+    font-size:65px;
+    padding: 10px;
+}
+.info {
+    flex-direction: column;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.hello {
+    color:	 #4dff88;
+    font-size:25px;
+    text-align:center;
+}
+.start {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.intro1 {
+    color:white;
+    text-align:center;
+    font-size:25px; 
+}
+.choices1 {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+    color:white;
+    padding:60px;
+    margin: 10px;   
+}
+.choiceone {
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    font-size: 20px;   
+}
+.choicetwo {
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    font-size: 20px;
+}
+img {
+    width: 600px;
+    padding:40px;   
+}
+.buttonone {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+}
+.p1 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.p2 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.answer1 {
+    color:	 #ffe680;
+    text-align:center;
+    font-size:25px;
+    padding:35px;
+}
+.answer2 {
+    color:	 #4dff88;
+    text-align:center;
+    font-size:25px;
+    padding:35px;
+}
+.intro2 {
+    color:white;
+    text-align:center;
+    font-size:25px;
+    padding:35px;
+}
+.choices2 {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+    color:white;
+    padding:30px;
+    margin: 10px;
+    align-items:center;
+}
+.choicethree {
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    font-size: 20px;
+}
+.choicefour {
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    font-size: 20px;
+}
+.buttontwo {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+}
+.p3 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.p4 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.answer3 {
+    color: #b380ff;
+    text-align:center;
+    font-size:25px;
+    padding:35px;
+}
+.answer4 {
+    color:	 #ff80bf;
+    text-align:center;
+    font-size:25px;
+    padding:35px;
+}
+.intro3 {
+    color:	 #b380ff;
+    text-align:center;
+    font-size:25px;
+    padding:35px;
+}
+.choices3 {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+    color:	 #ffbf80;
+    padding:30px;
+    margin: 10px;
+    align-items:center;
+}
+.choicefive {
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    font-size: 20px;
+}
+.choicesix {
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    font-size: 20px;
+}
+.buttonthree {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+}
+.p5 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.p6 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.intro4 {
+    color:	 #80ffff;
+    text-align:center;
+    font-size:25px;
+    padding:35px;
+}
+.choices4 {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+    color: #d5ff80;
+    padding:30px;
+    margin: 10px;
+    align-items:center;
+}
+.choiceseven {
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    font-size: 20px;
+}
+.choiceeight {
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    font-size: 20px;
+}
+.buttonfour {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+}
+.p7 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.p8 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.intro5 {
+    color:white;
+    text-align:center;
+    font-size:25px;
+    padding:35px;
+}
+.choices5 {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+    color: #ffcc80;
+    padding:30px;
+    margin: 10px;
+    align-items:center;
+}
+.choicenine {
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    font-size: 20px;
+}
+.choiceten {
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    font-size: 20px;
+}
+.buttonfive {
+    flex-direction: row;
+    display:flex;
+    justify-content:space-around;
+}
+.p9 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.p10 {
+    font-size: 20px;
+    border-radius: 10px;
+    background-color:white;
+    padding:10px;
+}
+.stuff{
+    font-size:50px;
+    color:	#F08080;
+    text-align:center;
+    display:flex;
+}
+    
